@@ -5,7 +5,7 @@
 - 📫 You can send me an e-mail at me@sertac.dev or find me on Twitter under the same handle!
 
 # 2. What's my current toolset?
-- I create custom tailored web projects in Laravel (long time Laravel 5 & 7, currently trying to migrate to Laravel 9 and all the new stuff).
+- I create custom tailored web projects in Laravel (long time Laravel 5 & 7, currently learning Laravel 10 and all the new stuff).
 - For frontend choices, I rely on TailwindCSS & vanilla JS, currently looking to expand into React!
 - My go to for Windows desktop apps are usually either NodeJS & Electron or C# .NET Framework/Core WPF.
 - For web crawlers and data mining, I'm most used to Python Selenium setup.
